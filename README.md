@@ -47,7 +47,7 @@
     :seedling: I’m currently learning Flutter, Figma, HTML, CSS, JS and Python
 </p>
 <p align="center">
-    :dancers: I’m looking to collaborate on interesting open source projects
+    :dancers: I’m looking to collaborate on interesting open source projects to improve my skills
 </p>
 <p align="center">
     :earth_americas: I live in Russia, so it might take some time to respond
