@@ -71,7 +71,20 @@
             width="48"
         />
     </a>
+      <a
+        href="t.me/chris_elliot_1"
+        target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
+            alt="Telegram"
+            height="36"
+            width="48"
+        />
+    </a>
 </div>
+<br/>
 <div align="center">
     <a href="mailto:chriselli.dev@gmail.com" target="_blank">
         <img
