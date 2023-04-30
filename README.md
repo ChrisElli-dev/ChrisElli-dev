@@ -83,6 +83,18 @@
             width="48"
         />
     </a>
+      <a
+        href="https://vk.com/chris_elliot"
+        target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg"
+            alt="Spotify"
+            height="36"
+            width="48"
+        />
+    </a>
 </div>
 <br/>
 <div align="center">
