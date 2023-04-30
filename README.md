@@ -59,7 +59,7 @@
 <div align="center">
     <a href="chriselli.dev@gmail.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/oro3673@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"
+            src="https://img.shields.io/badge/chriselli.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"
             alt="main email address"
         />
     </a>
