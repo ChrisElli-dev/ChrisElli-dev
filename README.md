@@ -48,7 +48,7 @@
 </p>
 <p align="center">
    🇺🇸/🇷🇺 Able to speak both English and Russian fluently. I'm also learning Spanish and Japanese
-</p
+</p>
 <p align="center">
     :dancers: I’m looking to collaborate on interesting open source projects to improve my skills
 </p>
