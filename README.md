@@ -55,3 +55,42 @@
 </p>
 <p align="center">:mailbox: My socials are down below If you wanna reach me</p>
 <br/>
+<h3 align="center">~ :mailbox: 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 :mailbox: ~</h3>
+<br/>
+<div align="center">
+    <a href="https://dev.to/abiria" target="blank">
+        <img
+            align="center"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
+            alt="Dev.to"
+            height="36"
+            width="48"
+        />
+    </a>
+    <a href="https://twitter.com/abiria14" target="blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
+            alt="Twitter"
+            height="36"
+            width="48"
+        />
+    </a>
+    <a href="https://codepen.io/abiriadev" target="blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="Codepen"
+            height="36"
+            width="48"
+        />
+    </a>
+    <a href="https://linkedin.com/in/hunee-park-0a1144215" target="blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="Linkedin"
+            height="36"
+            width="48"
+        />
+    </a>
