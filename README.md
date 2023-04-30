@@ -40,4 +40,18 @@
         />
     </picture>
 </div>
-<br/>
+</br>
+<h3 align="center">~ :bust_in_silhouette: 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 :bust_in_silhouette: ~</h3>
+<p align="center">:telescope: I’m currently studying Computer Science at Moscow University for Bachelors (Graduation year: 2026)</p>
+<p align="center">
+    :seedling: I’m currently learning Flutter, Figma, HTML, CSS, JS and Python.
+</p>
+<p align="center">
+    :dancers: I’m looking to collaborate on interesting open source projects
+</p>
+<p align="center">
+    :earth_europe: I live in Russia, so it might take some time to respond
+    ;P
+</p>
+<p align="center">:mailbox: How to reach me? I put my contacts down below</p>
+<br />
