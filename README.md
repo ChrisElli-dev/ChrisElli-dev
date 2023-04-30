@@ -77,7 +77,7 @@
     >
         <img
             align="center"
-            src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg"
+            src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg.source"
             alt="Telegram"
             height="36"
             width="48"
