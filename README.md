@@ -18,7 +18,7 @@
         />
         <!-- prettier-ignore-attribute -->
         <img
-            alt="Abiria's GitHub stats >ㅂ<"
+            alt="Christopher's GitHub stats >ㅂ<"
             src="https://github-readme-stats.vercel.app/api?username=ChrisElli-dev&title_color=9062da&icon_color=9e76df&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Christopher%27s%20GitHub%20stats%20%3E%E3%85%82%3C&card_width=400"
         />
     </picture>
