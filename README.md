@@ -56,4 +56,12 @@
 <p align="center">:mailbox: My socials are down below If you wanna reach me</p>
 <br/>
 <h3 align="center">~ :mailbox: 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 :mailbox: ~</h3>
-
+<div align="center">
+    <a href="chriselli.dev@gmail.com" target="_blank">
+        <img
+            src="https://img.shields.io/badge/oro3673@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"
+            alt="main email address"
+        />
+    </a>
+    &nbsp;
+</div>
