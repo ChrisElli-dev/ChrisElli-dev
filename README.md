@@ -85,12 +85,15 @@
             width="48"
         />
     </a>
-    <a href="https://linkedin.com/in/hunee-park-0a1144215" target="blank">
+   <a
+        href="https://www.youtube.com/channel/UCpEsKs--n2y0VIuee1swLqg"
+        target="blank"
+    >
         <img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="Linkedin"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+            alt="youtube channel"
             height="36"
             width="48"
         />
-    </a>
+    </a>  
