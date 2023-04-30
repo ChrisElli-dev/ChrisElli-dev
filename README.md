@@ -68,7 +68,7 @@
 <br/>
 <div align="center">
     <img
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabiriadev&count_bg=%239E76DF&title_bg=%23444444&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChrisElli-dev&count_bg=%239E76DF&title_bg=%23444444&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"
         alt="views"
     />
 </div>
