@@ -50,8 +50,8 @@
     :dancers: I’m looking to collaborate on interesting open source projects
 </p>
 <p align="center">
-    :earth_europe: I live in Russia, so it might take some time to respond
+    :earth_americas: I live in Russia, so it might take some time to respond
     ;P
 </p>
-<p align="center">:mailbox: How to reach me? I put my contacts down below</p>
-<br />
+<p align="center">:mailbox: My socials are down below If you wanna reach me.</p>
+<br/>
