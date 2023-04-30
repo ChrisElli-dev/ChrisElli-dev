@@ -42,7 +42,7 @@
 </div>
 </br>
 <h3 align="center">~ :bust_in_silhouette: 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 :bust_in_silhouette: ~</h3>
-<p align="center">:telescope: I’m currently studying Computer Science at Moscow University for Bachelors (Graduation year: 2026)</p>
+<p align="center">:telescope: I’m currently studying Computer Science at <a href="https://mtuci.ru/?lang=en" target="blank">Moscow University</a> for Bachelors (Graduation year: 2026)</p>
 <p align="center">
     :seedling: I’m currently learning Flutter, Figma, HTML, CSS, JS and Python
 </p>
