@@ -60,18 +60,6 @@
 <br/>
 <div align="center">
      <a
-        href="https://open.spotify.com/user/kca80iarh963mr9qtn2by76oz"
-        target="blank"
-    >
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
-            alt="Spotify"
-            height="36"
-            width="48"
-        />
-    </a>
-      <a
         href="t.me/chris_elliot_1"
         target="blank"
     >
@@ -79,6 +67,18 @@
             align="center"
             src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg.source"
             alt="Telegram"
+            height="36"
+            width="48"
+        />
+    </a>
+     <a
+        href="https://open.spotify.com/user/kca80iarh963mr9qtn2by76oz"
+        target="blank"
+    >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
+            alt="Spotify"
             height="36"
             width="48"
         />
