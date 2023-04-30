@@ -65,7 +65,7 @@
     >
         <img
             align="center"
-            src="https://github.com/matomo-org/matomo-icons/blob/master/src/socials/web.telegram.org.svg.source"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
             alt="Telegram"
             height="36"
             width="48"
