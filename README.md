@@ -67,10 +67,18 @@
     &nbsp;
 </div>
 <br/>
-<a
-        href="https://open.spotify.com/user/fpfkn9dn9kw6lqg2ot9vme5q9"
+ <a
+        href="https://open.spotify.com/user/kca80iarh963mr9qtn2by76oz"
         target="blank"
     >
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
+            alt="Spotify"
+            height="36"
+            width="48"
+        />
+    </a>
 <br/>
 <div align="center">
     <img
