@@ -63,7 +63,7 @@
 <br/>
 <div align="center">
      <a
-        href="t.me/chris_elliot_1"
+        href="https://t.me/chris_elliot_1"
         target="blank"
     >
         <img
