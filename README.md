@@ -57,7 +57,8 @@
 <br/>
 <h3 align="center">~ :mailbox: 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 :mailbox: ~</h3>
 <div align="center">
-    <a href="chriselli.dev@gmail.com" target="_blank">
+<br/>
+    <a href="mailto:chriselli.dev@gmail.com" target="_blank">
         <img
             src="https://img.shields.io/badge/chriselli.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"
             alt="main email address"
@@ -65,6 +66,11 @@
     </a>
     &nbsp;
 </div>
+<br/>
+<a
+        href="https://open.spotify.com/user/fpfkn9dn9kw6lqg2ot9vme5q9"
+        target="blank"
+    >
 <br/>
 <div align="center">
     <img
