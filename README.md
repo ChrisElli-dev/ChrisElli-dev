@@ -65,7 +65,7 @@
     >
         <img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegramm.svg"
+            src="https://github.com/feathericons/feather/issues/1114#issue-1042211809"
             alt="Telegram"
             height="36"
             width="48"
